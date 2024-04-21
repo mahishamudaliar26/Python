@@ -1,5 +1,5 @@
 # Immutable: once created, elements cannot be 
-# added or removed.
+# added, removed or edited form the tuple.
 
 marks = (99,99, 98, 97, 100)
 
